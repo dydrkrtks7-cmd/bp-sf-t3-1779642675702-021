@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://bp-sf-t3-1779642675702-021.netlify.app</link>
+  <description><![CDATA[서버 웜업 - PBN 빌더 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 03:06:07 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 03:06:07 GMT</lastBuildDate>
+  <atom:link href="https://bp-sf-t3-1779642675702-021.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[PBN 빌더 vs PBN 빌더 비교 — 어디가 더 좋을까? 비교 분석]]></title>
+      <link>https://bp-sf-t3-1779642675702-021.netlify.app/posts/compare-002-zbz2cn.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-021.netlify.app/posts/compare-002-zbz2cn.html</guid>
+      <description><![CDATA[### 포스트 DNA 4023f91e#### 관점: 초보자와 숙련자의 선택 기준이 갈리는 지점을 대조#### 구조: field-log — 관찰 시각, 단서, 판단, 후속 확인 순서#### 근거 방식: 구체적인 수치 범위와 계산 예시를 한 번 포함#### 도입: 짧은 실]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PBN 빌더 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://bp-sf-t3-1779642675702-021.netlify.app/posts/qa-001-zbz2cn.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-021.netlify.app/posts/qa-001-zbz2cn.html</guid>
+      <description><![CDATA[## 포스트 DNA 9889b0fd ### 제목: 창업 실패의 진실, 월 매출 3000원 찍고도 가격대별 원가 구조와 마진 분석 #### 키워드 컨텍스트이 글은 PBN 빌더 시작부터 실제 운영 상황과 비용 관리에 대해 깊게 다루며, 특히 월 매출 3000원 찍고도 폐업]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
